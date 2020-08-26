@@ -11,7 +11,7 @@
  
 <h2 align="center">My name is Philippe Carvalho, but you can call me Phil. </h2>
 <p align="center">I'm a Site Reliability Engineer, Amateur Photographer and Metal Head from Brazil.
-I currently passionate about Home Automation, Golang Apps and Observability in general.</p>
+I'm currently passionate about Home Automation, Golang Apps and Observability in general.</p>
 
   ---
 ### 💼 Where I am currently working at/as
