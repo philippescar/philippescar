@@ -16,7 +16,7 @@ I'm currently passionate about Home Automation, Golang Apps and Observability in
   ---
 ### 💼 Where I am currently working at/as
 
-- [Delivery Hero](https://www.deliveryhero.com/about/) - Engineering Manager for SRE
+- [Delivery Hero](https://www.deliveryhero.com/about/) - Domain Lead - Developer Experience
 
 ### 💻  Where I was working before at/as
 
