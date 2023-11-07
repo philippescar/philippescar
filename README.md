@@ -15,11 +15,12 @@ I'm currently passionate about Home Automation, Golang Apps and Observability in
 
   ---
 ### 💼 Where I am currently working at/as
+- [HashiCorp](https://www.hashicorp.com/about) - Engineering Manager - Terraform Registry
 
-- [Delivery Hero](https://www.deliveryhero.com/about/) - Domain Lead - Developer Experience
 
 ### 💻  Where I was working before at/as
 
+- [Delivery Hero](https://www.deliveryhero.com/about/) - Domain Lead - Developer Experience
 - [N26](https://n26.com/en-de/about-n26) - Lead Platform Engineer Observability
 - [Ebay](https://www.ebayclassifiedsgroup.com/aboutus.html) - Senior Site Reliability Engineer
 ---
